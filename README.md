@@ -16,3 +16,7 @@ I had hosted the UI Using the netlify
 ```
 https://login-signup-auth.netlify.app/
 ```
+Tech staxk used to build the Login/signup Page 
+> HTML
+> CSS
+> JavaScript
